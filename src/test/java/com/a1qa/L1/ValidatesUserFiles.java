@@ -16,7 +16,7 @@ public class ValidatesUserFiles {
   }
 	 
   @DataProvider 
-	  public Object[][] jsonAdmin(){
+	  /*public Object[][] jsonAdmin(){
 	  JSONParser parser = new JSONParser();
 	  JSONObject jsonObject = null;
 	  
@@ -28,7 +28,7 @@ public class ValidatesUserFiles {
 	  }
 	  
 		  
-  }
+  }*/
 	  
 	  
   @Test
